@@ -1,0 +1,8 @@
+{
+    "description": "Test parameters file for Jenkins pipeline",
+    "baseUrl": "http://localhost:3000",
+    "testData": {
+        "customerType": "vip",
+        "includeImages": true
+    }
+}
